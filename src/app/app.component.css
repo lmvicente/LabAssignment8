@@ -1,0 +1,14 @@
+.nav-action-containter {
+    margin: 15px auto;
+    width: 90%;
+}
+
+.contact-button {
+    margin-right: 9px;
+}
+
+.contact-grid {
+    display: grid;
+    margin: 15px auto;
+    width: 90%;
+}
